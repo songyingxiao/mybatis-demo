@@ -1,6 +1,2 @@
 qqqqqqqqqq
-<<<<<<< HEAD
-ddddddddddddddddddd333333333333333333333333333333
-=======
-dddddddddddddddddddddd
->>>>>>> 4e18bb7b5761799062463e213c515df5df2bf9be
+feature
